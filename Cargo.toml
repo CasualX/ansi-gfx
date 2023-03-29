@@ -1,0 +1,13 @@
+[package]
+name = "ansi-gfx"
+version = "0.0.0"
+authors = ["Casper <CasualX@users.noreply.github.com>"]
+edition = "2021"
+license = "MIT"
+
+description = "ANSI Graphics Colors made easily printable"
+documentation = "https://docs.rs/ansi-gfx/"
+repository = "https://github.com/CasualX/ansi-gfx"
+readme = "readme.md"
+keywords = ["ansi", "color", "graphics", "term"]
+categories = ["no-std"]
